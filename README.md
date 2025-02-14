@@ -2,8 +2,7 @@
 
 #  👋 Hi there, I'm Jay Milishia 💻
 
-📍 Victoria, Canada  📧 [milishiaj@gmail.com](mailto:milishiaj@gmail.com)  🔗 [LinkedIn](https://www.linkedin.com/in/milishiaj) | [GitHub](https://github.com/milishiajay) | [Schedule a Call with Me](https://calendly.com/milishiaj/meetme) 
-
+📍 Victoria, Canada  📧 [milishiaj@gmail.com](mailto:milishiaj@gmail.com)  🔗 [LinkedIn](https://www.linkedin.com/in/milishiaj)
 ---
 
 ## 👋 About Me
