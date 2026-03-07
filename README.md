@@ -7,7 +7,7 @@
 
 ## 👋 About Me
 
-A passionate Computer Science student specializing in AI and minoring in Business at the University of Victoria. I have a strong interest in **Artificial Intelligence**, **Machine Learning**, **Human-Computer Interaction**, and **Finance**. Besides work I enjoy playing **Table Tennis**, do some **Cooking**, go out for **Swimming**... etc.
+A passionate Computer Science grad specializing in AI and minoring in Business at the University of Victoria. I have a strong interest in **Artificial Intelligence**, **Machine Learning**, **Human-Computer Interaction**, and **Finance**. Besides work I enjoy playing **Table Tennis**, do some **Cooking**, go out for **Swimming**... etc.
 
 ## 🛠 Skills
 
